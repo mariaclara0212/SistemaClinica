@@ -8,6 +8,7 @@ public class UsuarioDTO {
 	private String nome_usuario, senha_usuario, status_usuario;
 	private Date create_usuario, update_usuario;
 	
+	//MÉTODOS ACESSORES E MODIFICADORES
 	public int getIdusuario() {
 		return idusuario;
 	}

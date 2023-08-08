@@ -5,6 +5,7 @@ public class PessoaDTO {
 	private int idpessoa;
 	private String tipopessoa, nomepessoa, cpf_cnpj, rg_inscestadual, email, telefone, contato;
 	
+	//MÉTODOS ACESSORES E MODIFICADORES
 	public int getIdpessoa() {
 		return idpessoa;
 	}

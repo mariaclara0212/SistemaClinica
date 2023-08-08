@@ -35,7 +35,7 @@ public class frmPessoaView extends JFrame {
 	private JTextField textField;
 
 	/**
-	 * Launch the application.
+	 * Launch the application app.
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {

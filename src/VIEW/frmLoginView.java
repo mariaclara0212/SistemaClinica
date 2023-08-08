@@ -29,7 +29,7 @@ public class frmLoginView extends JFrame {
 	private JPasswordField txtSenhaUsuario;
 
 	/**
-	 * Launch the application.
+	 * Launch the application app.
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {

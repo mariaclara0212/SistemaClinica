@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class ConnectionFactoryDAO {
-	
+	//conexão de banco
 	public static Connection createConnection() {
 		String stringDeConexao = "jdbc:mysql://localhost:3306/db_clinica"; //link de conexão com o banco
 		String usuario = "root"; //USUÁRIO PADRÃO ADMIN

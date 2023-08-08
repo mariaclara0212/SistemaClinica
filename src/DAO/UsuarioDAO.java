@@ -12,7 +12,7 @@ import DTO.UsuarioDTO;
 public class UsuarioDAO {
 
 	Connection conexao;
-	
+	//pegando informações do banco
 	public ResultSet autenticacaoUsuario(UsuarioDTO objusuariodto) {
 		
 		//CRIANDO CONEXÃO COM O BANCO DE DADOS
